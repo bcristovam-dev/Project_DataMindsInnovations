@@ -1,1 +1,0 @@
-# Projeto - Gestão de Investimento
